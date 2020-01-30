@@ -20,6 +20,7 @@ at android/app/src/main/AndroidManifest.xml
 
         ...
         <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/> <!-- ADD THIS -->
+        <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/> <!-- ADD THIS -->
 
         <uses-sdk
             android:minSdkVersion="16"
